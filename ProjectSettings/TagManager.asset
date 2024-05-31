@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - plataforma
+  - plataforma 1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Limite
+  - fondo
+  - plataforma
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 2425651459
+    locked: 0
+  - name: 'ambiente de fondo '
+    uniqueID: 4250941897
+    locked: 0
+  - name: plataforma
+    uniqueID: 4189426099
+    locked: 0
+  - name: Jugador
+    uniqueID: 3676690625
+    locked: 0
